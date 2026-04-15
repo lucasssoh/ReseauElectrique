@@ -43,4 +43,4 @@ Le projet implémente deux stratégies pour optimiser le coût du réseau :
 * Interface interactive permettant la modification manuelle des connexions.
 * Export du réseau optimisé vers un fichier texte au format valide.
 * Vérification systématique de l'intégrité du réseau (chaque maison doit être connectée à un unique générateur).
-```
+
